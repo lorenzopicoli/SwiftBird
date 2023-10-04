@@ -1,4 +1,4 @@
 SwiftBird
 =========
 
-Yet another flappy bid clone written in Swift
+Yet another flappy bird clone written in Swift
